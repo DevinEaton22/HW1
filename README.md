@@ -9,4 +9,4 @@ Some considerations I made when when designing this program were to use strings 
 While the distributions will be close to the designated 15%, 75% and 10% for the zero, one and two alignments, they may not be exact. This can be due to the fact that the random  string created by the zero alignment may actually match to a portion of the reference string. 
 
 
-I spent about 8 hours total on this project. I had to rewrite sections of the program several times, but I felt that I got a better understanding of the assignment as I progressed. I feel much more confortable with string operations and have a better understanding of file reads and writes. 
+I spent about 8 hours total on this project and about 3-4 hours on this section. I had to rewrite sections of the program several times, but I felt that I got a better understanding of the assignment as I progressed. I feel much more confortable with string operations and have a better understanding of file reads and writes. 
